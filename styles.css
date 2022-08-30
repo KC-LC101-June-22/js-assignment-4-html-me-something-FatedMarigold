@@ -1,1 +1,28 @@
-/* Write your CSS here! */
+body {
+    background:
+        fixed linear-gradient(to bottom, darkmagenta, black 28%);
+    color: white;
+    margin: 5% 10% 5% 10%;
+}
+
+div.Whole {
+    padding: 25px 50px;
+    background-color: black;
+    border-left: 1px solid purple;
+    border-right: 1px solid purple;
+}
+
+h1 {
+    border-bottom: 1px solid darkmagenta;
+}
+
+a {
+    color: skyblue;
+}
+
+h1 a{
+    color: whitesmoke;
+}
+h2 a{
+    color: teal;
+}
